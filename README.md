@@ -13,11 +13,10 @@
 
 ### Installation
 
-Project requires [Node.js](https://nodejs.org/) v10+ to run.
+Project requires [Node.js](https://nodejs.org/) v 10+ to run.
 
 
 ```sh
-$ cd .
 $ npm install
 ```
 
