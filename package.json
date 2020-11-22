@@ -1,0 +1,19 @@
+{
+  "name": "emoji_conventor",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "encode": "node app/encode.js",
+    "decode": "node app/decode.js",
+    "client": "node index.js",
+    "start": "npm run encode && clear && npm run client"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Jakub Šupa"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "filesystem": "^1.0.1"
+  }
+}
