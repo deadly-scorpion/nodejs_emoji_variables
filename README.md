@@ -36,7 +36,7 @@ $ npm run encode
 Decode emoji hex to emoji index.js
 
 ```sh
-$ npm run decpde
+$ npm run decode
 ```
 Encode emoji to hex and run index.js
 
