@@ -4,12 +4,12 @@
 
  Node js encoder / decoder what change all emoji variables to valid variabler.
 
-# New Features!
-
-  - Ignore emoji in string.
+# Features!
+ - Replace emojis variables to emoji hex.
  
 # To Do
- - Ignore emoji in comments.
+ - [x] Ignore emoji in string.
+ - [ ] Ignore emoji in comments.
 
 ### Installation
 
