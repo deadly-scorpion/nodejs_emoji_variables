@@ -8,7 +8,7 @@
  - Replace emojis variables to emoji hex.
  
 # To Do
- - [x] Ignore emoji in string.
+ - [ ] Ignore emoji in string.
  - [ ] Ignore emoji in comments.
 
 ### Installation
